@@ -1,4 +1,4 @@
-# k8s_example
+# Astro SDK with Python in AirFlow with Kubernetes - k8s
 
 ## [Install prereqs](prereq.md)
 ![prereq](imgs/prereq.png)
